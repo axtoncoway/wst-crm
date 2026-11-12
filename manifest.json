@@ -1,0 +1,16 @@
+{
+  "name": "WST CRM System",
+  "short_name": "WST CRM",
+  "description": "WST Axton Group — customer follow-up for Health Planners",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0B3A75",
+  "theme_color": "#0B3A75",
+  "lang": "zh-Hans",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
